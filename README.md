@@ -3,7 +3,7 @@ An AI-powered matchmaking project combining logistic regression and matching alg
 
 ## Team and Roles
 
-| Member | Entry No. | GitHub Handle | Role |
+| Member | Entry Number | GitHub Handle | Role |
 |---|---|---|---|
 | Sarika Naga San Srija | 2026EEB1407 | @Srija3110 | Documentation Lead |
 | Ishant Sharma | 2026AIB1043 | @beyonder-stars | Execution Lead |
