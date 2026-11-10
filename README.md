@@ -15,7 +15,8 @@ All four members have contributed in coding(see commit history)
 
 ## Project Structure
 
-AI-Project_84/
+```text
+AI-Project-84/
 │
 ├── data/
 │   └── Speed Dating Data.csv
