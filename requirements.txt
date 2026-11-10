@@ -1,3 +1,13 @@
+# Data handling
 numpy==2.2.6
 pandas==2.2.3
+
+# Data visualisation
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Machine learning and evaluation
 scikit-learn==1.7.2
+
+# Notebook environment
+jupyter==1.1.1
