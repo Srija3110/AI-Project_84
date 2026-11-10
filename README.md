@@ -71,7 +71,7 @@ The above is the setup process for the code.
 ```text
 python -m notebook
 ```
-2. On the browser page, open the src folder and click main.ipynb.
+2. On the browser page, open the src folder and click DateWise_Submission_Organized.ipynb
 3. In the top menu, click Kernel, then choose Restart & Run All Cells.
 4. Wait for execution to finish. The final scores and charts will appear at the bottom.
 
