@@ -7,5 +7,5 @@ An AI-powered matchmaking project combining logistic regression and matching alg
 |---|---|---|---|
 | Sarika Naga Sai Srija | 2026EEB1407 | @Srija3110 | Documentation Lead |
 | Ishant Sharma | 2026AIB1043 | @beyonder-stars | Execution Lead |
-| Kavita Meena | 2026AIB1049 | @2026eeb1049-maker | PPT Lead |
+| Kavita Meena | 2026AIB1049 | @2026aib1049-maker | PPT Lead |
 | Jatin | 2026EEB1358 | @2026eeb1358-Jatin | Video Lead |
