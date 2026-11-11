@@ -23,6 +23,7 @@ AI-Project-84/
 │   └── Speed Dating Data.csv
 │
 ├── docs/
+│   └── DateWise_Match_Theory_White_Navy_Updated (1).pptx_20261111_031300_0000.pdf
 │
 ├── outputs/
 │   ├── confusion_matrix.csv
@@ -37,8 +38,7 @@ AI-Project-84/
 │
 ├── .gitignore
 ├── README.md
-└── requirements.txt
-```
+└── requirements.txt```
 
 ## Setup
 The following instructions should be followed.We have used Jupyter notebook for our main code file
@@ -76,4 +76,36 @@ python -m notebook
 4. Wait for execution to finish. The final scores and charts will appear at the bottom.
 
 ## Result
-<img width="1168" height="603" alt="WhatsApp Image 2026-11-11 at 18 50 41" src="https://github.com/user-attachments/assets/f38cad02-4b13-4912-bf92-6d8a2ab31e84" />
+
+<img width="1168" height="603" alt="WhatsApp Image 2026-11-11 at 18 50 41" src="https://github.com/user-attachments/assets/efc363c2-8dfc-4647-9cc2-0ad4409ca02b" />
+<img width="1327" height="963" alt="WhatsApp Image 2026-11-11 at 18 50 42" src="https://github.com/user-attachments/assets/fde0ff1a-ac84-4f67-9a10-2c8a7690caa1" />
+
+
+## PPT and Video Links
+--PPT Link:[
+](https://github.com/Srija3110/AI-Project_84/blob/main/docs/DateWise_Match_Theory_White_Navy_Updated%20(1).pptx_20261111_031300_0000.pdf)
+
+--Video Link:[
+](https://drive.google.com/file/d/15zLcj8o_6uI6d_YgGAn0iu1uzIAkXAid/view?usp=drivesdk)
+
+##AI Disclosure
+AI Use Disclosure
+
+1.Assistance with code development, debugging, and understanding coding concepts.Structuring README documentation and improving presentation wording.
+
+2.The dataset was not generated or modified by AI.Code execution, analysis, and generation of project results were performed by the team.Final findings and conclusions were reviewed and verified by the team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
