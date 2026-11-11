@@ -94,7 +94,7 @@ python -m notebook
 
 AI Use Disclosure
 
-1.Assistance with code development, debugging, and understanding coding concepts.Structuring README documentation and improving presentation wording.
+1.ChatGPT:Assistance with code development, debugging, and understanding coding concepts.Structuring README documentation and improving presentation wording.
 
 2.The dataset was not generated or modified by AI.Code execution, analysis, and generation of project results were performed by the team.Final findings and conclusions were reviewed and verified by the team.
 
