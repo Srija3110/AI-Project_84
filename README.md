@@ -75,4 +75,5 @@ python -m notebook
 3. In the top menu, click Kernel, then choose Restart & Run All Cells.
 4. Wait for execution to finish. The final scores and charts will appear at the bottom.
 
-
+## Result
+<img width="1168" height="603" alt="WhatsApp Image 2026-11-11 at 18 50 41" src="https://github.com/user-attachments/assets/f38cad02-4b13-4912-bf92-6d8a2ab31e84" />
