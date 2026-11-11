@@ -38,7 +38,8 @@ AI-Project-84/
 │
 ├── .gitignore
 ├── README.md
-└── requirements.txt```
+└── requirements.txt
+```
 
 ## Setup
 The following instructions should be followed.We have used Jupyter notebook for our main code file
