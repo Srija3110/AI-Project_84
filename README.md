@@ -62,6 +62,7 @@ For MacOS/Linux
 ```text
 source venv/bin/activate
 ```
+then install the requirements
 ```text
 python -m pip install -r requirements.txt
 ```
