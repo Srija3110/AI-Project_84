@@ -88,7 +88,7 @@ python -m notebook
 ](https://github.com/Srija3110/AI-Project_84/blob/main/docs/AI-Project_84.pdf)
 
 --Video Link:[https://drive.google.com/file/d/15zLcj8o_6uI6d_YgGAn0iu1uzIAkXAid/view?usp=drivesdk)
-](https://drive.google.com/file/d/15zLcj8o_6uI6d_YgGAn0iu1uzIAkXAid/view?usp=drivesdk)
+](https://drive.google.com/file/d/1r4hXRRyYwHZHt-NPvIyAxOHUxiSyeZQq/view?usp=drivesdk)
 
 
 ## AI Disclosure
