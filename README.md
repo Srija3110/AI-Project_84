@@ -82,13 +82,15 @@ python -m notebook
 
 
 ## PPT and Video Links
---PPT Link:[
-](https://github.com/Srija3110/AI-Project_84/blob/main/docs/DateWise_Match_Theory_White_Navy_Updated%20(1).pptx_20261111_031300_0000.pdf)
+--PPT Link:[AI-Project_84.pdf
+](https://github.com/Srija3110/AI-Project_84/blob/main/docs/AI-Project_84.pdf)
 
---Video Link:[
+--Video Link:[https://drive.google.com/file/d/15zLcj8o_6uI6d_YgGAn0iu1uzIAkXAid/view?usp=drivesdk)
 ](https://drive.google.com/file/d/15zLcj8o_6uI6d_YgGAn0iu1uzIAkXAid/view?usp=drivesdk)
 
-##AI Disclosure
+
+## AI Disclosure
+
 AI Use Disclosure
 
 1.Assistance with code development, debugging, and understanding coding concepts.Structuring README documentation and improving presentation wording.
